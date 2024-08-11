@@ -19,7 +19,7 @@ This project analyzes investment opportunities in Argentine bonds and cannabis s
 3. Install required R packages: `install.packages(c("readxl", "dplyr", "ggplot2", "forecast"))`
 
 ## Usage
-[Add instructions on how to run your analysis scripts]
+Run Python scripts in venv and run R scripts in R studio
 
 ## Contributors
 - William Parker
